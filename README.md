@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lbazzani
-- 👀 I'm an hobbist developer, I’m interested in business development and startup ideas
+- 👀 I’m interested in business development and startup ideas
 
 <!---
 lbazzani/lbazzani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
